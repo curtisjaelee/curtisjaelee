@@ -28,4 +28,4 @@ Everything above follows the same loop: build it end-to-end, deploy it for real,
 
 ---
 
-📍 Los Angeles · 📫 [curtisjaelee@gmail.com](mailto:curtisjaelee@gmail.com) · [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
+📍 Los Angeles · 📫 [curtisjaelee@gmail.com](mailto:curtisjaelee@gmail.com) · [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/curtis-lee-6a1904220/))
